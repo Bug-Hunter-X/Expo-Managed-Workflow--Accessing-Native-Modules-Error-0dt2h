@@ -1,0 +1,1 @@
+This error typically occurs when you're using Expo's managed workflow and try to access or modify native modules directly.  Expo's managed workflow encapsulates native modules within the Expo Go app or the built standalone app. Directly manipulating them from your JavaScript code is restricted for security and maintainability reasons.
